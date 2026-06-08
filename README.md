@@ -1,5 +1,7 @@
 # 🛍️ AURUM Store - ABA PayWay Sandbox Integration
-
+<div align="center">
+  <img src="https://www.payway.com.kh/payway-logo.svg" alt="ABA Payway Logo" width="400"/>
+</div>
 > ⚠️ **Sandbox Environment** - This repository is for testing and development purposes only. Do not use production credentials here.
 
 A Next.js 14+ e-commerce store integration with **ABA PayWay** payment gateway, built for **Aurum Store**. This sandbox environment allows developers to test payment flows, webhooks, and transaction handling before going live.
